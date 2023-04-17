@@ -19,4 +19,4 @@ elif IMC>= 30 and IMC < 39.9:
     print(f"Seu IMC é de {IMC}, e é classificado como "
           f"obesidade")
 else:
-    print("Cuidado com a sua saúde, obesidade acima da média entre 30 a 39.9!")
+    print("Cuidado com a sua saúde!")
